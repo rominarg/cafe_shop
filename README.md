@@ -8,6 +8,6 @@ Este proyecto es una landing page web para una cafetería, creada con HTML5, CSS
 
 
 ## Tecnologías Utilizadas
-HTML5
-CSS
-Bootstrap 5
+- HTML5
+- CSS
+- Bootstrap 5
